@@ -19,8 +19,9 @@ All notebooks have been cleaned to ensure full compatibility with `nbconvert` an
 | (f) | Time-Series Clustering using Pretrained Models | `Clustering_Time_Series_(Autoencoder_+_K_Means).ipynb` |
 | (g) | Document Clustering using LLM Embeddings | `Document_Clustering_using_LLM_Embeddings.ipynb` |
 | (h) | Image Clustering using ImageBind Embeddings | `Image_Clustering_ImageBind.ipynb` |
-| (i) | Audio Clustering using Wav2Vec2 (LLM Audio Embeddings) | `Image_Clustering_ImageBind.ipynb` |  both (h) and (i) are done in same colab
+| (i) | Audio Clustering using Wav2Vec2 (LLM Audio Embeddings) | `Image_Clustering_ImageBind.ipynb` |  
 
+both (h) and (i) are done in same colab
 ---
 
 # 🧩 Assignment Summary
