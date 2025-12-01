@@ -21,8 +21,10 @@ All notebooks have been cleaned to ensure full compatibility with `nbconvert` an
 | (h) | Image Clustering using ImageBind Embeddings | `Image_Clustering_ImageBind.ipynb` |
 | (i) | Audio Clustering using Wav2Vec2 (LLM Audio Embeddings) | `Image_Clustering_ImageBind.ipynb` |  
 
-both (h) and (i) are done in same colab
 ---
+both (h) and (i) are done in same colab
+
+
 
 # 🧩 Assignment Summary
 
