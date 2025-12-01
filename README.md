@@ -12,14 +12,14 @@ All notebooks have been cleaned to ensure full compatibility with `nbconvert` an
 | Part | Topic | Notebook Name |
 |------|--------|----------------|
 | (a) | K-Means from Scratch | `kmeans_from_scratch.ipynb` |
-| (b) | Hierarchical Clustering | `hierarchical_clustering.ipynb` |
-| (c) | Gaussian Mixture Models (GMM) | `gmm_clustering.ipynb` |
-| (d) | DBSCAN using sklearn (PyCaret alternative) | `dbscan_clustering.ipynb` |
-| (e) | Anomaly Detection using PyOD | `anomaly_detection_pyod.ipynb` |
-| (f) | Time-Series Clustering using Pretrained Models | `timeseries_clustering_pretrained.ipynb` |
-| (g) | Document Clustering using LLM Embeddings | `document_clustering_llm_embeddings.ipynb` |
-| (h) | Image Clustering using ImageBind Embeddings | `image_clustering_imagebind.ipynb` |
-| (i) | Audio Clustering using Wav2Vec2 (LLM Audio Embeddings) | `audio_clustering_wav2vec2.ipynb` |
+| (b) | Hierarchical Clustering | `Hierarchical_Clustering.ipynb` |
+| (c) | Gaussian Mixture Models (GMM) | `Gaussian_Mixture_Models.ipynb` |
+| (d) | DBSCAN using sklearn (PyCaret alternative) | `DBSCAN_Clustering.ipynb` |
+| (e) | Anomaly Detection using PyOD | `Anomaly_Detection.ipynb` |
+| (f) | Time-Series Clustering using Pretrained Models | `Clustering_Time_Series_(Autoencoder_+_K_Means).ipynb` |
+| (g) | Document Clustering using LLM Embeddings | `Document_Clustering_using_LLM_Embeddings.ipynb` |
+| (h) | Image Clustering using ImageBind Embeddings | `Image_Clustering_ImageBind.ipynb` |
+| (i) | Audio Clustering using Wav2Vec2 (LLM Audio Embeddings) | `Image_Clustering_ImageBind.ipynb` |  both (h) and (i) are done in same colab
 
 ---
 
@@ -41,12 +41,6 @@ Each notebook contains:
 - Evaluation metrics  
 - Markdown summaries  
 - PCA/UMAP visualization (where applicable)
-
----
-
-# 📄 Notebook Details
-
-Below are detailed descriptions of each part of the assignment:
 
 ---
 
@@ -148,9 +142,3 @@ Notebook: `audio_clustering_wav2vec2.ipynb`
 
 ---
 
-# 📦 Dependencies
-
-Create a consistent environment using:
-
-```bash
-pip install numpy scipy sklearn matplotlib seaborn librosa soundfile sentence-transformers transformers==4.41.2
